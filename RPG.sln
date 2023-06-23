@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9939EF82-5C0C-4820-9961-B7CBFA352014}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RPG", "RPG", "{47E03F9E-E7A4-447A-A196-152899CB02BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameRPG", "GameRPG\GameRPG.csproj", "{D3AC5CFD-80A3-492F-9A25-32B312A3E655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{47E03F9E-E7A4-447A-A196-152899CB02BF} = {9939EF82-5C0C-4820-9961-B7CBFA352014}
+		{D3AC5CFD-80A3-492F-9A25-32B312A3E655} = {47E03F9E-E7A4-447A-A196-152899CB02BF}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AC5CFD-80A3-492F-9A25-32B312A3E655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AC5CFD-80A3-492F-9A25-32B312A3E655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AC5CFD-80A3-492F-9A25-32B312A3E655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AC5CFD-80A3-492F-9A25-32B312A3E655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
